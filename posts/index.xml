@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MTXKN&#39;s Blog</title>
+    <link>https://mtxkn.github.io/blog/posts/</link>
+    <description>MTXKN&#39;s Blog (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 12 Feb 2021 02:39:37 +0800</lastBuildDate>
+    
+    <atom:link href="https://mtxkn.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你好</title>
+      <link>https://mtxkn.github.io/blog/posts/hi/</link>
+      <pubDate>Fri, 12 Feb 2021 02:39:37 +0800</pubDate>
+      
+      <guid>https://mtxkn.github.io/blog/posts/hi/</guid>
+      <description>&lt;p&gt;你好，我是麦田。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
